@@ -6,12 +6,12 @@
         "FileName": "C:\\Users\\cdigg\\dev\\Identity\\B_added_values\\entities_B\\0AILikM3j4yxEubPKdsqOS.obj",
         "LocalBoundingBox": {
           "Min": {
-            "X": -10.199999999999982,
+            "X": 0.199999999999982,
             "Y": 0.1000000000000334,
             "Z": 0
           },
           "Max": {
-            "X": -9.999999999999984,
+            "X": 1.999999999999984,
             "Y": 10.200000000000033,
             "Z": 8
           }
@@ -150,83 +150,6 @@
         "SourceFileName": "C:\\BAT\\AEC_HACK\\BAT\\IFC_TO_OBJ\\IFC_ADDED_PARAMS.ifc",
         "SourceSoftware": "Ifc",
         "LocalElementId": "0AILikM3j4yxEubPKdsqT2"
-      }
-    ]
-  },
-  {
-    "Id": "0AILikM3j4yxEubPKdsqUS",
-    "Geometries": [
-      {
-        "FileName": "C:\\Users\\cdigg\\dev\\Identity\\B_added_values\\entities_B\\0AILikM3j4yxEubPKdsqUS.obj",
-        "LocalBoundingBox": {
-          "Min": {
-            "X": -0.19999999999999946,
-            "Y": 0.10000000000000109,
-            "Z": 0
-          },
-          "Max": {
-            "X": 5.412337245047638E-16,
-            "Y": 10.200000000000003,
-            "Z": 4
-          }
-        },
-        "EntityId": "0AILikM3j4yxEubPKdsqUS",
-        "ComponentId": "640873d2-6bd3-4ad9-b58c-6a660d0c98af",
-        "ComponentType": "Geometry",
-        "SourceFileName": "C:\\BAT\\AEC_HACK\\BAT\\IFC_TO_OBJ\\IFC_ADDED_PARAMS.ifc",
-        "SourceSoftware": "Ifc",
-        "LocalElementId": "0AILikM3j4yxEubPKdsqUS"
-      }
-    ],
-    "ParameterSets": [
-      {
-        "Parameters": {
-          "id": "234",
-          "type": "IfcWallStandardCase",
-          "GlobalId": "0AILikM3j4yxEubPKdsqUS",
-          "OwnerHistory": "#18=IfcOwnerHistory(#17,#2,$,.NOCHANGE.,$,$,$,1706968611)",
-          "Name": "Mur de base:G\u00E9n\u00E9rique - 200 mm:150896",
-          "Description": null,
-          "ObjectType": "Mur de base:G\u00E9n\u00E9rique - 200 mm",
-          "ObjectPlacement": "#222=IfcLocalPlacement(#112,#221)",
-          "Representation": "#233=IfcProductDefinitionShape($,$,(#225,#232))",
-          "Tag": "150896",
-          "Reference": "G\u00E9n\u00E9rique - 200 mm",
-          "IsExternal": "True",
-          "ExtendToStructure": "False",
-          "LoadBearing": "False",
-          "Cat\u00E9gorie": "Murs",
-          "Famille": "Mur de base",
-          "Famille et type": "Mur de base: G\u00E9n\u00E9rique - 200 mm",
-          "ID du type": "1740",
-          "Type": "G\u00E9n\u00E9rique - 200 mm",
-          "Contrainte inf\u00E9rieure": "Niveau 1",
-          "Contrainte sup\u00E9rieure": "Jusqu\u0027au niveau: Niveau 2",
-          "D\u00E9calage inf\u00E9rieur": "0.0",
-          "D\u00E9calage sup\u00E9rieur": "0.0",
-          "Extension inf\u00E9rieure": "0.0",
-          "Extension sup\u00E9rieure": "0.0",
-          "Li\u00E9 au volume": "False",
-          "Ligne de justification": "Axe du mur",
-          "Limite de pi\u00E8ce": "True",
-          "Partie inf\u00E9rieure attach\u00E9e": "False",
-          "Partie sup\u00E9rieure attach\u00E9e": "False",
-          "Hauteur non contrainte": "4.0",
-          "Longueur": "9.999999999999998",
-          "Surface": "40.400000000000006",
-          "Volume": "8.080000000000004",
-          "Phase de cr\u00E9ation": "Phase 1",
-          "Structure": "False",
-          "Utilisation structurelle": "Non porteur",
-          "Section": "Vertical",
-          "filename": "C:\\BAT\\AEC_HACK\\BAT\\IFC_TO_OBJ\\IFC_ADDED_PARAMS.ifc"
-        },
-        "EntityId": "0AILikM3j4yxEubPKdsqUS",
-        "ComponentId": "75a934ab-d52e-4d67-8f9a-6f8fbb127718",
-        "ComponentType": "ParameterSet",
-        "SourceFileName": "C:\\BAT\\AEC_HACK\\BAT\\IFC_TO_OBJ\\IFC_ADDED_PARAMS.ifc",
-        "SourceSoftware": "Ifc",
-        "LocalElementId": "0AILikM3j4yxEubPKdsqUS"
       }
     ]
   },
